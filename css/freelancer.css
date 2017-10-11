@@ -234,6 +234,7 @@ header.masthead {
           margin: 0; }
 
 #portfolio * {
+  border-radius: 3px;
   z-index: 2; }
 
 @media (min-width: 767px) {
